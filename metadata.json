@@ -1,0 +1,7 @@
+{
+  "name": "Tube Flow DJ",
+  "description": "Professional Web Audio DJ application with real-time stem separation simulation, scratch physics, and MIDI support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
